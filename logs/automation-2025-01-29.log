@@ -1,0 +1,114 @@
+16:44:50.432 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+16:44:50.755 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+16:45:01.060 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Started ***
+16:45:01.083 [main] INFO  testCases.TC001_Login_Amazon_Account - Click on account link and validate Login page is visible
+16:45:03.319 [main] INFO  testCases.TC001_Login_Amazon_Account - Enter username and password and validate the login
+16:45:18.106 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Completed ***
+16:50:08.895 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+16:50:09.205 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+16:54:04.787 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+16:54:05.092 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+16:54:09.487 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Started ***
+16:54:09.520 [main] INFO  testCases.TC001_Login_Amazon_Account - Click on account link and validate Login page is visible
+16:54:11.434 [main] INFO  testCases.TC001_Login_Amazon_Account - Enter username and password and validate the login
+16:56:43.707 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+16:56:44.006 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+16:56:48.563 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Started ***
+16:56:48.600 [main] INFO  testCases.TC001_Login_Amazon_Account - Click on account link and validate Login page is visible
+16:56:50.807 [main] INFO  testCases.TC001_Login_Amazon_Account - Enter username and password and validate the login
+16:57:05.446 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Completed ***
+16:58:20.284 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+16:58:20.587 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+16:58:25.258 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Started ***
+16:58:25.323 [main] INFO  testCases.TC001_Login_Amazon_Account - Click on account link and validate Login page is visible
+16:58:27.543 [main] INFO  testCases.TC001_Login_Amazon_Account - Enter username and password and validate the login
+16:59:20.532 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+16:59:20.847 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+17:26:25.983 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+17:26:26.388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+17:29:46.612 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+17:29:46.928 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+17:29:54.489 [main] INFO  testCases.TC001_Login_Amazon_Account - Title is verified
+17:29:54.518 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Started ***
+17:29:54.567 [main] INFO  testCases.TC001_Login_Amazon_Account - Click on account link and validate Login page is visible
+17:29:55.968 [main] INFO  testCases.TC001_Login_Amazon_Account - Enter username and password and validate the login
+18:19:05.633 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+18:19:08.310 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Started ***
+18:19:08.342 [main] INFO  testCases.TC001_Login_Amazon_Account - Click on account link and validate Login page is visible
+18:22:13.724 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+18:22:14.029 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+18:22:19.184 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Started ***
+18:22:19.203 [main] INFO  testCases.TC001_Login_Amazon_Account - Click on account link and validate Login page is visible
+18:35:14.802 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+18:35:15.128 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+18:35:22.167 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Started ***
+18:35:22.206 [main] INFO  testCases.TC001_Login_Amazon_Account - Click on account link and validate Login page is visible
+18:35:24.000 [main] INFO  testCases.TC001_Login_Amazon_Account - Enter username and password and validate the login
+18:35:54.785 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+18:35:55.079 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+18:36:01.501 [main] INFO  testCases.TC001_Login_Amazon_Account - ** Login Test Started ***
+18:36:06.534 [main] INFO  testCases.TC001_Login_Amazon_Account - Click on account link and validate Login page is visible
+18:36:06.601 [main] INFO  testCases.TC001_Login_Amazon_Account - Enter username and password and validate the login
+18:36:48.735 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Mahesh\AppData\Local\Temp\testng-eclipse--2019156728\testng-customsuite.xml"
+18:36:49.024 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.028 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:36:49.031 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.031 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.032 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.032 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.033 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.033 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.042 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+18:36:49.055 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+18:36:49.057 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.057 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.060 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.060 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.063 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.064 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.068 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.069 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.069 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:36:49.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:36:49.083 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Mahesh\AppData\Local\Temp\testng-eclipse--2019156728\testng-customsuite.xml
+
+18:36:49.104 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+18:36:49.377 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@54709809: 96 ms
+18:36:49.408 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4816c290: 30 ms
+18:36:49.426 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@a50b09c: 17 ms
+18:36:49.452 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@740abb5: 26 ms
