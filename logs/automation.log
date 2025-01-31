@@ -1,33 +1,127 @@
-17:57:16.549 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-17:57:16.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-01-31 14:40:55 INFO  Utils:112 - [TestNG] Running:
   C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
 
-18:58:17.444 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:02:19.389 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:07:44.271 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:09:41.653 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:09:54.102 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:09:54.368 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-01-31 14:43:22 INFO  Utils:112 - [TestNG] Running:
   C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
 
-19:12:35.514 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:12:35.787 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-01-31 14:47:22 INFO  Utils:112 - [TestNG] Running:
   C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
 
-19:16:00.590 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:16:00.868 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-01-31 14:54:41 INFO  Utils:112 - [TestNG] Running:
   C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
 
-19:17:55.083 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:17:55.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-01-31 14:54:49 INFO  TC001_Login_Amazon_Account:16 - ** Login Test Started ***
+2025-01-31 14:54:54 INFO  TC001_Login_Amazon_Account:19 - Click on account link and validate Login page is visible
+2025-01-31 14:54:54 INFO  TC001_Login_Amazon_Account:23 - Enter username and password and validate the login
+2025-01-31 14:55:00 INFO  TC001_Login_Amazon_Account:28 - Clicked on Login Button
+2025-01-31 14:55:00 ERROR TC001_Login_Amazon_Account:35 - Login Test Failed: 
+2025-01-31 14:59:37 INFO  Utils:112 - [TestNG] Running:
   C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
 
-19:32:15.075 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:32:15.345 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-01-31 15:04:38 INFO  Utils:112 - [TestNG] Running:
   C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
 
-19:34:13.669 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
-19:34:13.959 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2025-01-31 15:11:01 INFO  Utils:112 - [TestNG] Running:
   C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
 
-19:34:37.720 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml"
+2025-01-31 15:11:19 INFO  TC001_Login_Amazon_Account:16 - ** Login Test Started ***
+2025-01-31 15:11:24 INFO  TC001_Login_Amazon_Account:19 - Click on account link and validate Login page is visible
+2025-01-31 15:11:24 INFO  TC001_Login_Amazon_Account:23 - Enter username and password and validate the login
+2025-01-31 15:11:34 INFO  TC001_Login_Amazon_Account:28 - Clicked on Login Button
+2025-01-31 15:11:34 ERROR TC001_Login_Amazon_Account:35 - Login Test Failed: 
+2025-01-31 16:01:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+2025-01-31 16:02:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+2025-01-31 16:03:17 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:03:22 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:03:22 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:03:23 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:03:28 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:03:28 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:03:28 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:03:33 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:03:33 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:03:34 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:03:39 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:03:39 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:03:39 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:03:44 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:03:44 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:04:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+2025-01-31 16:05:16 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:05:21 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:05:28 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:05:34 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:05:44 INFO  TC003_TDD_Login_OrangeHRM:69 - ***** Finished TC_003_LoginDDT ******
+2025-01-31 16:05:44 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:05:49 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:05:49 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:05:54 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:05:56 INFO  TC003_TDD_Login_OrangeHRM:69 - ***** Finished TC_003_LoginDDT ******
+2025-01-31 16:05:56 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:06:01 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:06:01 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:06:07 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:06:17 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:06:22 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:06:23 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:06:29 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:06:40 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:06:45 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:06:45 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:06:50 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:13:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+2025-01-31 16:13:42 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:13:47 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:13:48 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:13:53 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:13:54 INFO  TC003_TDD_Login_OrangeHRM:70 - ***** Finished TC_003_LoginDDT ******
+2025-01-31 16:13:54 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:13:59 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:13:59 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:14:05 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:14:06 INFO  TC003_TDD_Login_OrangeHRM:70 - ***** Finished TC_003_LoginDDT ******
+2025-01-31 16:14:06 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:14:11 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:14:11 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:14:18 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:14:28 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:14:33 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:14:33 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:14:38 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:14:49 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:14:54 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:14:54 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:14:59 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:18:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Kalpesh\Projet Workspace\Nop_Commerce\testng.xml
+
+2025-01-31 16:18:22 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:18:28 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:18:30 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:18:37 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:18:38 INFO  TC003_TDD_Login_OrangeHRM:70 - ***** Finished TC_003_LoginDDT ******
+2025-01-31 16:18:38 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:18:43 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:18:43 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:18:50 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:18:52 INFO  TC003_TDD_Login_OrangeHRM:70 - ***** Finished TC_003_LoginDDT ******
+2025-01-31 16:18:52 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:18:57 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:18:58 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:19:04 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:19:14 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:19:19 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:19:19 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:19:26 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button
+2025-01-31 16:19:36 INFO  TC003_TDD_Login_OrangeHRM:18 - ** Login Test Started ***
+2025-01-31 16:19:41 INFO  TC003_TDD_Login_OrangeHRM:21 - Click on account link and validate Login page is visible
+2025-01-31 16:19:41 INFO  TC003_TDD_Login_OrangeHRM:25 - Enter username and password and validate the login
+2025-01-31 16:19:46 INFO  TC003_TDD_Login_OrangeHRM:30 - Clicked on Login Button

@@ -23,6 +23,7 @@ public class LoginApplication extends BasePage{
 	WebElement loginBtn;
 	
 	@FindBy(xpath = "//p[@class='oxd-userdropdown-name']")
+	public
 	WebElement accoutHolderName;
 	
 	
@@ -37,6 +38,11 @@ public class LoginApplication extends BasePage{
 	public void clickLogin() {
 		loginBtn.click();
 	}	
+	
+	public boolean homePageExists() {
+		boolean status = accoutHolderName.isDisplayed();
+		return status;
+	}
 	
 	public String getConfirmationMsg() {
 		try {

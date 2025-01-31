@@ -16,6 +16,15 @@ public class HomePage extends BasePage {
 	@FindBy(xpath = "//h5[normalize-space()='Login']")
 	WebElement logintxt;
 
+	@FindBy(xpath = "//p[@class='oxd-text oxd-text--p oxd-alert-content-text']")
+	WebElement alerttxt;
+	
+	
+	public boolean alertExists() {
+		boolean status = alerttxt.isDisplayed();
+		return status;
+	}
+	
 	// Methods or Actions
 	public void logoPresent() {
 		

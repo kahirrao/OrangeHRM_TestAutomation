@@ -11,7 +11,7 @@ public class DataProviders {
 	@DataProvider(name="LoginData")
 	public String [][] getData() throws IOException
 	{
-		String path=".\\testData\\Opencart_LoginData.xlsx";//taking xl file from testData
+		String path=".\\testData\\OrangeHRM_LoginData.xlsx";//taking xl file from testData
 		
 		ExcelUtility xlutil=new ExcelUtility(path);//creating an object for XLUtility
 		
@@ -20,7 +20,7 @@ public class DataProviders {
 				
 		String logindata[][]=new String[totalrows][totalcols];//created for two dimension array which can store the data user and password
 		
-		for(int i=1;i<=totalrows;i++)  //1   //read the data from xl storing in two deminsional array
+		for(int i=1;i<=totalrows;i++)  //1   //read the data from xl storing in two dimensional array
 		{		
 			for(int j=0;j<totalcols;j++)  //0    i is rows j is col
 			{

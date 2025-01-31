@@ -5,7 +5,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
@@ -13,7 +12,6 @@ import java.util.Properties;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.TakesScreenshot;
@@ -27,13 +25,12 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 public class BaseClass2 {
-	public WebDriver driver;
-//	public Logger logger;
+	public static WebDriver driver;
+	public Logger logger;
 	public Properties p;
 
 	@BeforeClass(groups = { "regression", "sanity","master" })
@@ -44,37 +41,35 @@ public class BaseClass2 {
 		p = new Properties();
 		p.load(fis);
 		
-		if (p.getProperty("execution_env").equalsIgnoreCase("remote")) {
-			DesiredCapabilities capabilities = new DesiredCapabilities();
-			if (os.equalsIgnoreCase("windows")) {
+		if(p.getProperty("execution_env").equalsIgnoreCase("remote"))
+		{
+			DesiredCapabilities capabilities=new DesiredCapabilities();
+			
+			//os
+			if(os.equalsIgnoreCase("windows"))
+			{
 				capabilities.setPlatform(Platform.WIN11);
-			} else if (os.equalsIgnoreCase("linux")) {
+			}
+			else if(os.equalsIgnoreCase("linux"))
+			{
 				capabilities.setPlatform(Platform.LINUX);
-			} else if (os.equalsIgnoreCase("mac")) {
+				
+			}
+			else if (os.equalsIgnoreCase("mac"))
+			{
 				capabilities.setPlatform(Platform.MAC);
-			} else {
+			}
+			else
+			{
 				System.out.println("No matching os");
 				return;
 			}
-			switch (br.toLowerCase()) {
-			case "chrome":
-				ChromeOptions chOptions = new ChromeOptions();
-				driver = new ChromeDriver(chOptions);
-				chOptions.setExperimentalOption("excludeSwitches", new String[] { "enable-automation" });
-				break;
-			case "firefox":
-				FirefoxOptions ffOption = new FirefoxOptions();
-				driver = new FirefoxDriver(ffOption);
-				ffOption.addPreference("excludeSwitches", new String[] { "enable-automation" });
-				break;
-			case "edge":
-				EdgeOptions edOption = new EdgeOptions();
-				driver = new EdgeDriver(edOption);
-				edOption.setExperimentalOption("excludeSwitches", new String[] { "enable-automation" });
-				break;
-			default:
-				System.out.println("No browser found");
-				return;
+			switch(br.toLowerCase())
+			{
+			case "chrome": capabilities.setBrowserName("chrome"); break;
+			case "edge": capabilities.setBrowserName("MicrosoftEdge"); break;
+			case "firefox": capabilities.setBrowserName("firefox"); break;
+			default: System.out.println("No matching browser"); return;
 			}
 			String hubUrl = p.getProperty("hub_url");
 			URI uri = new URI(hubUrl);
@@ -104,7 +99,7 @@ public class BaseClass2 {
 			}
 
 		}
-//		logger = LogManager.getLogger(this.getClass());
+		logger = LogManager.getLogger(this.getClass());
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.manage().window().maximize();
 		driver.get(p.getProperty("amazon_url_txt"));
